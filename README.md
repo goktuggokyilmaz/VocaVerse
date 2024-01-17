@@ -1,2 +1,9 @@
-As a part of our Sabanci University 2023 Fall term Mobile Application Development course CS310 Me my group mates succesfully develop a basic vocabulary game.
+*CS310 Mobile Application Development Project - Sabanci University, Fall 2023*
+Team Members:
 
+Göktuğ Gökyılmaz
+Yağmur Dolunay
+Osman Berk An
+
+Overview:
+VocabMaster Pro is an advanced vocabulary game developed as part of the CS310 Mobile Application Development course at Sabanci University. This application aims to provide users with an interactive and enjoyable way to enhance their vocabulary across various domains.
